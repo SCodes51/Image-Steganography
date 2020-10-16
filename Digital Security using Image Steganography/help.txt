@@ -1,0 +1,28 @@
+                                                                       I M A G E     S T E G A N O G R A P H Y
+==========================================================================================================
+
+
+
+==== 1. Encrypting message in an image.
+====================================
+
+A.  CLick BROWSE button, choose the image file to be encrypted.
+
+B.  Enter the text message to be embedded in the image.
+
+C.  After entering the private message  ->   Click the ENCRYPT button   ->   Enter a 4 digit key  
+
+D.   Click the SAVE button to save the encrypted image.
+
+
+
+
+==== 2. Decrypting the encrypted message file for private message:
+===========================================================
+
+A.  Choose the encrypted image file as input for retrieving the hidden message .
+
+B.  Click the DECRYPT button.
+
+C.  Enter the same 4 digit key as input used during the encryption .
+
